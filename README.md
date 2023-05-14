@@ -1,1 +1,1 @@
-# Calcus-and-Linear-Algebra
+# Calculus-and-Linear-Algebra
